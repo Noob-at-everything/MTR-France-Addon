@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:block/cube_all",
-  "textures": {
-    "all": "mtrfranceaddon:block/mtrfranceaddon_logo_block"
-  }
-}
