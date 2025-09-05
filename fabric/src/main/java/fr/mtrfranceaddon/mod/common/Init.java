@@ -2,6 +2,7 @@ package fr.mtrfranceaddon.mod.common;
 
 import fr.mtrfranceaddon.mod.common.registry.MTRFranceAddonRegistry;
 import fr.mtrfranceaddon.mod.common.registry.MTRFranceAddonRegistryClient;
+import fr.mtrfranceaddon.mod.common.util.Constants;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
