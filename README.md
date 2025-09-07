@@ -1,10 +1,11 @@
 # MTR France Addon
 
-![Minecraft](https://img.shields.io/badge/Minecraft-1.16.5--1.20.4-green.svg)
-![MTR](https://img.shields.io/badge/MTR-4.0.0-blue.svg)
+[![Minecraft](https://img.shields.io/badge/Minecraft-1.16.5--1.20.4-green.svg)](https://minecraft.net/)
+[![MTR](https://img.shields.io/badge/MTR-4.0.0+-blue.svg)](https://minecrafttransitrailway.com/)
 ![Fabric](https://img.shields.io/badge/Fabric-Supported-blue.svg)
 ![Forge](https://img.shields.io/badge/Forge-Supported-orange.svg)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)
+[![Crowdin](https://badges.crowdin.net/mtr-france-addon/localized.svg)](https://crowdin.com/project/mtr-france-addon)
 
 Un addon pour le mod [Minecraft Transit Railway (MTR)](https://github.com/Minecraft-Transit-Railway/Minecraft-Transit-Railway/tree/master) qui vise à ajouter des éléments, signalétiques et décorations du réseau ferroviaire français.
 
